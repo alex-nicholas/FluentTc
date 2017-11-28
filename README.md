@@ -1,5 +1,5 @@
 # FluentTc 
-Easy-to-use, readable and comprehensive library for consuming TeamCity REST API. Written using real scenarios in mind, enables variuos range of queries and operation on TeamCity
+Easy-to-use, readable and comprehensive library for consuming TeamCity REST API. Written using real scenarios in mind, enables various range of queries and operation on TeamCity
 
 ## Installation
 Run from NuGet Package Manager console: 
